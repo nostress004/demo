@@ -1,31 +1,94 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "Post 1"
+      "username": "Béluka",
+      "e-mail": "beluka@nincsmail.com",
+      "group memberships":22
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "username": "Béluka",
+      "e-mail": "beluka@nincsmail.com",
+      "group memberships":22
     },
     {
       "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "username": "Béluka",
+      "e-mail": "beluka@nincsmail.com",
+      "group memberships":22
     },
     {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "id": 4,
+      "username": "Béluka",
+      "e-mail": "beluka@nincsmail.com",
+      "group memberships":22
+    },
+    {
+      "id": 5,
+      "username": "Béluka",
+      "e-mail": "beluka@nincsmail.com",
+      "group memberships":22
+    },
+    {
+      "id": 6,
+      "username": "Béluka",
+      "e-mail": "beluka@nincsmail.com",
+      "group memberships":22
+    },
+    {
+      "id": 7,
+      "username": "Béluka",
+      "e-mail": "beluka@nincsmail.com",
+      "group memberships":22
+    },
+    {
+      "id": 8,
+      "username": "Béluka",
+      "e-mail": "beluka@nincsmail.com",
+      "group memberships":22
+    },
+    {
+      "id": 9,
+      "username": "Béluka",
+      "e-mail": "beluka@nincsmail.com",
+      "group memberships":22
+    },
+    {
+      "id": 10,
+      "username": "Béluka",
+      "e-mail": "beluka@nincsmail.com",
+      "group memberships":22
+    },
+    {
+      "id": 11,
+      "username": "Béluka",
+      "e-mail": "beluka@nincsmail.com",
+      "group memberships":22
+    },
+    {
+      "id": 12,
+      "username": "Béluka",
+      "e-mail": "beluka@nincsmail.com",
+      "group memberships":22
+    },
+    {
+      "id": 13,
+      "username": "Béluka",
+      "e-mail": "beluka@nincsmail.com",
+      "group memberships":22
+    },
+    {
+      "id": 14,
+      "username": "Béluka",
+      "e-mail": "beluka@nincsmail.com",
+      "group memberships":22
+    },
+    {
+      "id": 15,
+      "username": "Béluka",
+      "e-mail": "beluka@nincsmail.com",
+      "group memberships":22
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    ]
 }
