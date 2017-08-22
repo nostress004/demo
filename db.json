@@ -1,14 +1,120 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+            userid: 0,
+            username:"Beluka",
+            email: "beluka@nincsmail.com",
+            groupMemberships: 2
+          },
+          {
+            userid: 1,
+            username:"Jocoo",
+            email: "jocco@nincsmail.com",
+            groupMemberships: 5
+          }, 
+          {
+            userid: 2,
+            username:"Vendel",
+            email: "vendi@nincsmail.com",
+            groupMemberships: 6
+          }, 
+          {
+            userid: 3,
+            username:"Vendel",
+            email: "vendi@nincsmail.com",
+            groupMemberships: 6
+          }, 
+          {
+            userid: 4,
+            username:"Vendel",
+            email: "vendi@nincsmail.com",
+            groupMemberships: 6
+          }, 
+          {
+            userid: 5,
+            username:"Vendel",
+            email: "vendi@nincsmail.com",
+            groupMemberships: 6
+          }, 
+          {
+            userid: 6,
+            username:"Vendel",
+            email: "vendi@nincsmail.com",
+            groupMemberships: 6
+          }, 
+          {
+            userid: 7,
+            username:"Vendel",
+            email: "vendi@nincsmail.com",
+            groupMemberships: 6
+          }, 
+          {
+            userid: 8,
+            username:"Vendel",
+            email: "vendi@nincsmail.com",
+            groupMemberships: 6
+          }, 
+          {
+            userid: 9,
+            username:"Vendel",
+            email: "vendi@nincsmail.com",
+            groupMemberships: 6
+          }, 
+          {
+            userid: 10,
+            username:"Vendel",
+            email: "vendi@nincsmail.com",
+            groupMemberships: 6
+          }, 
+          {
+            userid: 11,
+            username:"Vendel",
+            email: "vendi@nincsmail.com",
+            groupMemberships: 6
+          }, 
+          {
+            userid: 12,
+            username:"Vendel",
+            email: "vendi@nincsmail.com",
+            groupMemberships: 6
+          }, 
+          {
+            userid: 13,
+            username:"Vendel",
+            email: "vendi@nincsmail.com",
+            groupMemberships: 6
+          }, 
+          {
+            userid: 14,
+            username:"Vendel",
+            email: "vendi@nincsmail.com",
+            groupMemberships: 6
+          }, 
+          {
+            userid: 15,
+            username:"Vendel",
+            email: "vendi@nincsmail.com",
+            groupMemberships: 6
+          }, 
+          {
+            userid: 16,
+            username:"Vendel",
+            email: "vendi@nincsmail.com",
+            groupMemberships: 6
+          }, 
+          {
+            userid: 17,
+            username:"Vendel",
+            email: "vendi@nincsmail.com",
+            groupMemberships: 6
+          }, 
+          {
+            userid: 18,
+            username:"Vendel",
+            email: "vendi@nincsmail.com",
+            groupMemberships: 6
+          }, 
+          {
+            userid: 19,
+            username:"Vendel",
+            email: "vendi@nincsmail.com",
+            groupMemberships: 6
+          }
